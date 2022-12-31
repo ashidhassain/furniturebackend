@@ -40,7 +40,7 @@ module.exports.sendEmailToClient = async ({
 }) => {
   const messages = `<table border='2px'>
   <tr>
-  <th>Name</th>
+  <th >Name</th>
   <th>Email</th>
   <th>PhoneNumber</th>
   </tr>
